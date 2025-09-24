@@ -1,5 +1,6 @@
 [project]
 name = "ray"
+version = "2.49.3"
 requires-python = ">=3.9"
 
 [tool.ruff]
